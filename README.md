@@ -33,7 +33,10 @@ I'm a frontend developer from Semarang, Indonesia. I spent the last year buildin
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hersariz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hersariz/hersariz/main/assets/top-langs-dark.svg">
+  <img src="https://raw.githubusercontent.com/hersariz/hersariz/main/assets/top-langs-light.svg" alt="top languages"/>
+</picture>
 
 </div>
 
